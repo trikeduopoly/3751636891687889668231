@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372400904572",
+    "project_id": "cell-phone-plans",
+    "storage_bucket": "cell-phone-plans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372400904572:android:4cb56e11b85449cfd02cf9",
+        "android_client_info": {
+          "package_name": "com.cellphoneplans.cheapestphoneplansatverizon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372400904572-2kns7bnth493saqqp4116agu76fv2i0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwBT8AqwMNwienmnAoMpSZ8bJLBoBF5kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372400904572-2kns7bnth493saqqp4116agu76fv2i0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
